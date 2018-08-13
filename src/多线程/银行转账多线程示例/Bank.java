@@ -1,5 +1,4 @@
-package 银行转账多线程示例;
-import java.util.concurrent.locks.Lock;
+package 多线程.银行转账多线程示例;
 
 public class Bank {
     private final double[] accounts;

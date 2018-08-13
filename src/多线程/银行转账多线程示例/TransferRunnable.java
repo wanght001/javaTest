@@ -1,4 +1,4 @@
-package 银行转账多线程示例;
+package 多线程.银行转账多线程示例;
 
 
 public class TransferRunnable implements Runnable {
